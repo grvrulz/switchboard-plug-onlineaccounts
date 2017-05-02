@@ -12,6 +12,7 @@ You'll need the following dependencies:
 * libgranite-dev
 * libgsignon-glib-dev
 * libgsignond-common-dev
+* libgtk-3-dev
 * libjson-glib-dev
 * librest-dev
 * libswitchboard-2.0-dev
